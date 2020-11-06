@@ -3,7 +3,7 @@
 # Created for @Odianosen25 and his great app Monitor-App
 #
 # 
-if sudo -q apt-get install dialog && sudo apt-get install curl ;
+if sudo apt-get install dialog && sudo apt-get install curl ;
 then
     echo -e "\e[32m\e[0m"
 else
